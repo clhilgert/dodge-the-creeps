@@ -1,5 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1729056312
+::res://::1729114317
+mob.gd::GDScript::-1::1729114000::0::1::::<>RigidBody2D<>::
+mob.tscn::PackedScene::2841568415281772221::1729114000::0::1::::<><>::uid://dw6svnb46rplf::::res://art/enemyFlyingAlt_1.png<>res://mob.gd<>uid://7x4id2r65kw1::::res://art/enemyFlyingAlt_2.png<>uid://7samvxao3su1::::res://art/enemySwimming_1.png<>uid://csq60vqg1nsmi::::res://art/enemySwimming_2.png<>uid://dbbixmgdfn8jc::::res://art/enemyWalking_1.png<>uid://br5l33va7qual::::res://art/enemyWalking_2.png
 player.gd::GDScript::-1::1729056236::0::1::::<>Area2D<>::
 player.tscn::PackedScene::2593439033370094155::1729056236::0::1::::<><>::uid://yv3lb6ww7dsv::::res://art/playerGrey_up1.png<>res://player.gd<>uid://bm3rglyj3rt6u::::res://art/playerGrey_up2.png<>uid://17o3r5a8hd4y::::res://art/playerGrey_walk1.png<>uid://dfousdq3vtlsd::::res://art/playerGrey_walk2.png
 README.md::TextFile::-1::1729052196::0::1::::<><>::
