@@ -47,3 +47,8 @@ func start(pos):
 	position = pos
 	show()
 	$CollisionShape2D.disabled = false
+
+func test():
+	abc = 123
+	xyz = 222
+	zzz = 000
